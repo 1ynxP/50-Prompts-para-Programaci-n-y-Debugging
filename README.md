@@ -402,6 +402,4 @@ Los mejores resultados suelen venir de la iteración:
 ---
 
 
-* Leaderboard oficial:
-  https://gorilla.cs.berkeley.edu/leaderboard.html
 
