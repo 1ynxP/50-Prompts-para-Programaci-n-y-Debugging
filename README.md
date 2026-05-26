@@ -18,13 +18,15 @@ Esta colección incluye prompts enfocados en:
 * 🏗️ Arquitectura de Sistemas
 * 🤖 Automatización de Workflows
 
+[!] Puedes usarlos con tu modelo de I.A para programar y en tu IDE de preferencia (Cursor, Antigravity, etc).
 Todos los prompts fueron probados utilizando algunos de los modelos LLM más avanzados para programación disponibles actualmente, incluyendo:
 
-* Claude Sonnet
+* Claude Sonnet 4.6
 * GPT-5
-* Gemini 2.5 Pro
+* Gemini 3.1 Pro & Gemini 3.5 Flash
+* DeepSeek-V4 Pro & DeepSeek-V4 Flash
 
-Los prompts y resultados fueron evaluados utilizando metodologías modernas de ingeniería de software y [benchmarking de IA]([https://openai.com](https://github.com/1ynxP/50-Prompts-para-Programaci-n-y-Debugging/blob/main/benchmarks.md)).
+Los prompts y resultados fueron evaluados utilizando metodologías modernas de ingeniería de software y [benchmarking de IA](https://github.com/1ynxP/50-Prompts-para-Programaci-n-y-Debugging/blob/main/benchmarks.md).
 
 ---
 
