@@ -106,13 +106,13 @@ Los mejores resultados suelen venir de la iteración:
 ---
 
 
-## PROMPTs:
+## PROMPTS:
 
 Prompt 1 · Code Review
 
 `Review this [language] code: [paste code]. Find potential bugs, performance issues, security vulnerabilities, and code quality problems. For each issue, explain why it matters and show me the fix.`
 
-Prompt 2 · Debug This Error
+Prompt 2 · Debug This Error**
 
 `Debug this error: [error message]. Here’s the relevant code: [paste code]. Explain the root cause, then walk me through the fix step by step.`
 
