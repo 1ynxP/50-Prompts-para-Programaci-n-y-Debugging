@@ -1,5 +1,7 @@
 # 🚀 50 Prompts para Programación y Debugging
 
+<img width="1536" height="1024" alt="ChatGPT Image May 26, 2026, 05_39_59 PM" src="https://github.com/user-attachments/assets/f0dd08b3-618a-4421-8d65-dbfe615fe31e" />
+
 ## 🧠 Introducción
 
 El desarrollo moderno ya no se trata únicamente de escribir código línea por línea. Hoy, la IA se convirtió en una herramienta real de asistencia para developers: ayudando a debugear, analizar arquitecturas, optimizar sistemas y acelerar workflows completos.
