@@ -24,7 +24,7 @@ Todos los prompts fueron probados utilizando algunos de los modelos LLM más ava
 * GPT-5
 * Gemini 2.5 Pro
 
-Los prompts y resultados fueron evaluados utilizando metodologías modernas de ingeniería de software y benchmarking de IA.
+Los prompts y resultados fueron evaluados utilizando metodologías modernas de ingeniería de software y [benchmarking de IA]([https://openai.com](https://github.com/1ynxP/50-Prompts-para-Programaci-n-y-Debugging/blob/main/benchmarks.md)).
 
 ---
 
