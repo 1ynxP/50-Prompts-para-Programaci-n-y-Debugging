@@ -2,20 +2,11 @@
 
 ## 🧠 Introducción
 
-El desarrollo de software moderno ya no consiste únicamente en escribir código.
+El desarrollo moderno ya no se trata únicamente de escribir código línea por línea. Hoy, la IA se convirtió en una herramienta real de asistencia para developers: ayudando a debugear, analizar arquitecturas, optimizar sistemas y acelerar workflows completos.
 
-Hoy en día, los mejores desarrolladores combinan:
+Más allá del “vibecoding”, los mejores resultados aparecen cuando combinamos criterio técnico, buenas prácticas y prompts bien diseñados. Esta colección reúne **50 prompts avanzados para Programación y Debugging** pensados para potenciar productividad y desarrollo profesional utilizando modelos de IA modernos.
 
-* Debugging
-* Pensamiento arquitectónico
-* Flujos de trabajo asistidos por IA
-* Automatización
-* Sistemas de razonamiento
-* Prácticas iterativas de ingeniería
-
-para desarrollar más rápido, detectar errores antes y construir sistemas más escalables.
-
-Esta colección incluye **50 prompts avanzados para Programación y Debugging**, enfocados en:
+Esta colección incluye prompts enfocados en:
 
 * 🔍 Revisiones de Código
 * 🐞 Debugging
