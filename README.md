@@ -6,7 +6,7 @@ El desarrollo moderno ya no se trata únicamente de escribir código línea por 
 
 Más allá del “vibecoding”, los mejores resultados aparecen cuando combinamos criterio técnico, buenas prácticas y prompts bien diseñados. Esta colección reúne **50 prompts avanzados para Programación y Debugging** pensados para potenciar productividad y desarrollo profesional utilizando modelos de IA modernos.
 
-Esta colección incluye prompts enfocados en:
+**Esta colección incluye prompts enfocados en:**
 
 * 🔍 Revisiones de Código
 * 🐞 Debugging
@@ -18,9 +18,8 @@ Esta colección incluye prompts enfocados en:
 * 🏗️ Arquitectura de Sistemas
 * 🤖 Automatización de Workflows
 
-[!] Puedes usarlos con tu modelo de I.A para programar y en tu IDE de preferencia (Cursor, Antigravity, etc).
+*[!] Puedes usarlos con tu modelo de I.A para programar y en tu IDE de preferencia (Cursor, Antigravity, etc).*
 Todos los prompts fueron probados utilizando algunos de los modelos LLM más avanzados para programación disponibles actualmente, incluyendo:
-
 * Claude Sonnet 4.6
 * GPT-5
 * Gemini 3.1 Pro & Gemini 3.5 Flash
