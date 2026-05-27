@@ -2,14 +2,14 @@
 
 ## A curated collection of advanced prompts for:
 
-🔍 Code Reviews
-🐞 Debugging
-⚡ Performance Optimization
-🔐 Security Audits
-🌐 API Design
-🧪 Testing
-🏗️ Software Architecture
-🤖 AI-assisted Development
+* 🔍 Code Reviews
+* 🐞 Debugging
+* ⚡ Performance Optimization
+* 🔐 Security Audits
+* 🌐 API Design
+* 🧪 Testing
+* 🏗️ Software Architecture
+* 🤖 AI-assisted Development
 
 These prompts were designed and tested using modern coding LLMs such as GPT-5, Claude Sonnet and Gemini 2.5 Pro.
 
