@@ -1,4 +1,4 @@
-# 🚀 50 Prompts for Coding & Debugging
+# 🚀 50 Prompts for `Coding` & Debugging
 
 ## A curated collection of advanced prompts for:
 
@@ -26,4 +26,4 @@ Perfect for developers, AI enthusiasts, automation engineers and technical teams
 
 ### ⭐ Topics
 
-AI Prompt Engineering Debugging Software Engineering LLMs Automation Programming Code Review Testing
+`AI Prompts`, `Prompts`, `Coding`, `Vibe-coding`, `Cursor`, `Engineering`, `Debugging`, `Software Engineering`, `Dev`, `Development`, `Tips`, `LLMs`, `Automation`, `Programming`, `Code`, `Review`, `Testing`
