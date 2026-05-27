@@ -1,4 +1,4 @@
-# 🚀 50 Prompts for `Coding` & Debugging
+# 🚀 50 `Prompts` for Coding & Debugging
 
 ## A curated collection of advanced prompts for:
 
