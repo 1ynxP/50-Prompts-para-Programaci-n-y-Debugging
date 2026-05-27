@@ -1,0 +1,93 @@
+# 🚀 50 Prompts for Programming and Debugging
+
+##🧠 Introduction
+
+Modern software development is no longer just about writing code.
+
+Today, the best developers combine:
+
+Debugging
+Architectural thinking
+AI-assisted workflows
+Automation
+Reasoning systems
+Iterative engineering practices
+
+to build faster, detect issues earlier, and create more scalable systems.
+
+This collection includes 50 advanced prompts for Programming and Debugging, focused on:
+
+🔍 Code Reviews
+🐞 Debugging
+⚡ Performance Optimization
+🔐 Security Audits
+🌐 API Design
+♻️ Refactoring
+🧪 Testing
+🏗️ System Architecture
+🤖 Workflow Automation
+
+All prompts were tested using some of the most advanced coding LLMs currently available, including:
+
+Claude Sonnet
+GPT-5
+Gemini 2.5 Pro
+
+The prompts and outputs were evaluated using modern software engineering methodologies and AI benchmarking practices.
+
+📋 How to Use These Prompts
+1️⃣ Replace the [brackets]
+
+Replace:
+
+[language]
+[code]
+[system]
+[framework]
+[architecture]
+
+with your actual content.
+
+2️⃣ Combine prompts together
+
+You can combine multiple prompts into a single workflow.
+
+Example
+“Code Review”
+“Security Audit”
+“Performance Analysis”
+
+➡️ All within a single request.
+
+3️⃣ Save your favorites
+
+You can store them in:
+
+Notion
+Obsidian
+GitHub Gists
+Google Docs
+
+with reusable preconfigured templates.
+
+4️⃣ Add output formatting
+
+You can append instructions such as:
+
+“in table format”
+“under 200 words”
+“prioritized by severity”
+“include code examples”
+
+This usually generates cleaner and more production-ready responses.
+
+5️⃣ Iterate instead of restarting
+
+The best results usually come from iteration:
+
+Ask follow-up questions
+Request alternative solutions
+Compare architectures
+Add stricter constraints
+Ask the model to critique its own response
+🧩 Prompts
