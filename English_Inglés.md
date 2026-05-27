@@ -6,10 +6,10 @@ Modern software development is no longer just about writing code line by line. T
 
 Beyond “vibecoding,” the best results come from combining technical expertise, best practices, and well-designed prompts. This collection brings together 50 advanced messages for Programming and Debugging prompts designed to boost productivity and professional development using modern AI models.
 
-## This collection includes tips focused on:
+## This collection includes 50 advanced prompts for Programming and Debugging, focused on:
 
 
-* 🔍 **Code Reviews
+* 🔍 **Code Reviews**
 * 🐞 **Debugging**
 * ⚡ **Performance Optimization**
 * 🔐 **Security Audits**
@@ -19,21 +19,7 @@ Beyond “vibecoding,” the best results come from combining technical expertis
 * 🏗️ **Systems Architecture**
 * 🤖 **Workflow Automation**
 
-
-
-This collection includes 50 advanced prompts for Programming and Debugging, focused on:
-
-🔍 Code Reviews
-🐞 Debugging
-⚡ Performance Optimization
-🔐 Security Audits
-🌐 API Design
-♻️ Refactoring
-🧪 Testing
-🏗️ System Architecture
-🤖 Workflow Automation
-
-[!] You can use them with your AI programming model and in your preferred IDE (Cursor, Antigravity, etc.).*
+*[!] You can use them with your AI programming model and in your preferred IDE (Cursor, Antigravity, etc.).*
 All prompts were tested using some of the most advanced LLM models for programming currently available, including:
 
 * **Claude Sonnet**
@@ -41,10 +27,11 @@ All prompts were tested using some of the most advanced LLM models for programmi
 * **Gemini 2.5 Pro**
 
 The prompts and results were evaluated using modern software engineering methodologies and [AI benchmarking](https://github.com/1ynxP/50-Prompts-para-Programaci-n-y-Debugging/blob/main/benchmarks.md).
+
 ---
 
-📋 How to Use These Prompts
-1️⃣ Replace the [brackets]
+### 📋 How to Use These Prompts:
+## 1️⃣ Replace the [brackets]
 
 Replace:
 
@@ -56,7 +43,7 @@ Replace:
 
 with your actual content.
 
-2️⃣ Combine prompts together
+###2️⃣ Combine prompts together
 
 You can combine multiple prompts into a single workflow.
 
@@ -67,7 +54,7 @@ Example
 
 ➡️ All within a single request.
 
-3️⃣ Save your favorites
+###3️⃣ Save your favorites
 
 You can store them in:
 
@@ -78,7 +65,7 @@ Google Docs
 
 with reusable preconfigured templates.
 
-4️⃣ Add output formatting
+###4️⃣ Add output formatting
 
 You can append instructions such as:
 
@@ -89,7 +76,7 @@ You can append instructions such as:
 
 This usually generates cleaner and more production-ready responses.
 
-5️⃣ Iterate instead of restarting
+### 5️⃣ Iterate instead of restarting
 
 The best results usually come from iteration:
 
@@ -98,4 +85,307 @@ Request alternative solutions
 Compare architectures
 Add stricter constraints
 Ask the model to critique its own response
-🧩 Prompts
+
+---
+
+# 🧩 Prompts
+
+**Prompt 1 · Code Review**
+
+`Review this [language] code: [paste code]. Find potential bugs, performance issues, security vulnerabilities, and code quality problems. For each issue, explain why it matters and show me the fix.`
+
+---
+
+**Prompt 2 · Debug This Error**
+
+`Debug this error: [error message]. Here’s the relevant code: [paste code]. Explain the root cause, then walk me through the fix step by step.`
+
+---
+
+**Prompt 3 · Refactor for Readability**
+
+`Refactor this code to be more readable and maintainable: [paste code]. Improve variable names, function structure, and add comments where needed. Explain why you made each change.`
+
+---
+
+**Prompt 4 · Write Unit Tests**
+
+`Write unit tests for this function: [paste code]. Use [test framework, e.g., Jest/Pytest]. Cover happy path, edge cases, and error cases. Explain the reasoning behind each test.`
+
+---
+
+**Prompt 5 · Optimize Performance**
+
+`Optimize the performance of this code: [paste code]. Identify bottlenecks, provide an improved version, and explain the time/space complexity changes.`
+
+---
+
+**Prompt 6 · Convert to TypeScript**
+
+`Convert this JavaScript to TypeScript: [paste code]. Add proper types, interfaces, and generics. Minimize use of ‘any’. Explain key type decisions.`
+
+---
+
+**Prompt 7 · Explain This Code**
+
+`Explain how this code works step by step: [paste code]. Break it down so a beginner can understand each part’s role and the overall flow.`
+
+---
+
+**Prompt 8 · Build a REST API Endpoint**
+
+`Create a REST API endpoint in [language/framework] for [feature]. Include request validation, error handling, and standardized response format.`
+
+---
+
+**Prompt 9 · Optimize Database Query**
+
+`Optimize this database query: [paste query]. Explain index usage, join optimization, and execution plan analysis. Show the improved version.`
+
+---
+
+**Prompt 10 · Write Technical Docs**
+
+`Write comprehensive technical documentation for this code: [paste code]. Include function descriptions, parameters, return values, usage examples, and caveats.`
+
+---
+
+**Prompt 11 · Security Audit**
+
+`Find security vulnerabilities in this code: [paste code]. Check against OWASP Top 10 — SQL injection, XSS, CSRF, auth bypass, etc. Show me how to fix each one.`
+
+---
+
+**Prompt 12 · Build a CLI Tool**
+
+`Build a CLI tool in [language] that [describe function]. Include argument parsing, help text, error handling, and progress indicators.`
+
+---
+
+**Prompt 13 · Convert Sync to Async**
+
+`Convert this synchronous function to async: [paste code]. Use async/await with proper error handling and Promise chaining.`
+
+---
+
+**Prompt 14 · Design a Database Schema**
+
+`Design a database schema for [system]. Include table structures, relationships, indexes, constraints, and explain your normalization decisions.`
+
+---
+
+**Prompt 15 · Write a Regex**
+
+`Write a regex to validate/extract [pattern]. Explain each part of the pattern, and provide test cases including edge cases.`
+
+---
+
+**Prompt 16 · Build a Web Scraper**
+
+`Build a web scraper to extract [data] from [URL] using [language/library]. Include rate limiting, retry logic, and error handling.`
+
+---
+
+**Prompt 17 · Architecture Review**
+
+`Review this project structure: [paste structure or code]. Analyze scalability, maintainability, and dependency issues. Suggest specific improvements.`
+
+---
+
+**Prompt 18 · Add Error Handling**
+
+`Add robust error handling to this code: [paste code]. Include try/catch, user-friendly error messages, error logging, and recovery strategies.`
+
+---
+
+**Prompt 19 · Build a Cron Job**
+
+`Create a cron job that runs [task] every [interval]. Include the schedule expression, failure notifications, duplicate prevention, and execution logging.`
+
+---
+
+**Prompt 20 · Translate Between Languages**
+
+`Convert this [source language] code to [target language]: [paste code]. Use idiomatic patterns for the target language and explain key differences.`
+
+---
+
+**Prompt 21 · Write a Webhook Handler**
+
+`Write a webhook handler for [service] events. Include signature verification, event type routing, idempotency guarantees, and error handling.`
+
+---
+
+**Prompt 22 · Build a Rate Limiter**
+
+`Implement an API rate limiter using [sliding window or token bucket]. Explain the algorithm choice and how to support distributed environments.`
+
+---
+
+**Prompt 23 · Create Middleware**
+
+`Create a [feature] middleware for [framework]. Include request/response processing, error propagation, config options, and integration with other middleware.`
+
+---
+
+**Prompt 24 · Design a Caching Strategy**
+
+`Design a caching strategy for [system]. Include cache layers, invalidation policies, TTL settings, stampede prevention, and hit-rate optimization.`
+
+---
+
+**Prompt 25 · Write a Data Migration Script**
+
+`Write a data migration script from [source schema] to [target schema]. Include data validation, rollback capability, and progress logging.`
+
+---
+
+**Prompt 26 · Build an Auth System**
+
+`Build a [JWT/OAuth/session] auth system in [language/framework]. Include token management, refresh logic, authorization, and security best practices.`
+
+---
+
+**Prompt 27 · Generate Mock Data**
+
+`Generate realistic mock data matching this [schema/structure]. Include diverse cases and edge cases for testing and development.`
+
+---
+
+**Prompt 28 · Implement Pagination**
+
+`Implement [cursor-based/offset] pagination for an API. Include sorting, filtering, total count, and next-page cursor in the response metadata.`
+
+---
+
+**Prompt 29 · Set Up CI/CD Pipeline**
+
+`Write a CI/CD pipeline for [GitHub Actions/GitLab CI/Jenkins]. Include build, test, lint, security scan, and environment-specific deployment stages.`
+
+---
+
+**Prompt 30 · Design a Microservice**
+
+`Design a microservice for [feature]. Include API contracts, data store, inter-service communication, fault isolation, and monitoring.`
+
+---
+
+**Prompt 31 · Implement Retry Logic**
+
+`Implement exponential backoff retry logic for API calls. Include max retries, retryable error types, jitter, and circuit breaker pattern.`
+
+---
+
+**Prompt 32 · Build a State Machine**
+
+`Implement a finite state machine for [process]. Include state list, transition conditions, guard conditions, entry/exit actions, and state history tracking.`
+
+---
+
+**Prompt 33 · Build a Job Queue**
+
+`Build a job queue system in [language]. Include priority queues, parallel workers, failed job retries, dead letter queue, and progress tracking.`
+
+---
+
+**Prompt 34 · Create an SDK**
+
+`Create a developer-friendly SDK for [API]. Include an intuitive interface, auto-retry, error handling, type definitions, and detailed usage examples.`
+
+---
+
+**Prompt 35 · Optimize React Component**
+
+`Optimize the rendering performance of this React component: [paste code]. Show when and how to apply useMemo, useCallback, and React.memo, with reasoning.`
+
+---
+
+**Prompt 36 · Write Integration Tests**
+
+`Write integration tests for [system/service]. Include real API calls, database interactions, external service mocking, and E2E scenarios.`
+
+---
+
+**Prompt 37 · Build Full-Text Search**
+
+`Implement full-text search functionality. Include indexing strategy, fuzzy matching, relevance scoring, result highlighting, and autocomplete.`
+
+---
+
+**Prompt 38 · Build a Notification System**
+
+`Build a notification system supporting email, SMS, and push. Include template management, delivery queue, tracking, retry logic, and subscription management.`
+
+---
+
+**Prompt 39 · Write a Parser**
+
+`Write a parser for [format/language]. Include lexer/tokenizer, grammar definition, AST generation, error recovery, and position tracking.`
+
+---
+
+**Prompt 40 · Design an Event System**
+
+`Design a pub/sub event system. Include type-safe event definitions, handler registration/deregistration, async processing, error propagation, and memory leak prevention.`
+
+---
+
+**Prompt 41 · Implement File Upload**
+
+`Implement multipart file uploads. Include chunked uploads, progress tracking, file type/size validation, resumable uploads, and cloud storage integration.`
+
+---
+
+**Prompt 42 · Build a Config System**
+
+`Build an environment-aware configuration system. Include env variables, config files, schema validation, defaults, secrets management, and runtime reload.`
+
+---
+
+**Prompt 43 · Build a Health Check Endpoint**
+
+`Build a service health check endpoint. Include DB connection status, external dependencies, memory/CPU usage, response time, and custom checks.`
+
+---
+
+**Prompt 44 · Implement Feature Flags**
+
+`Implement a feature flag system. Include flag definitions, user/group targeting, gradual rollout percentages, A/B testing support, and real-time updates.`
+
+---
+
+**Prompt 45 · Build Structured Logging**
+
+`Build a structured logging system. Include log levels, request trace IDs, context info, JSON output, and log aggregation tool integration.`
+
+---
+
+**Prompt 46 · Build a Report Generator**
+
+`Build a system that auto-generates [format] reports from [data source]. Include template engine, data aggregation, scheduling, and email distribution.`
+
+---
+
+**Prompt 47 · Build Data Validation**
+
+`Build a data validation layer for [data type/source]. Include schema validation, type coercion, sanitization, custom validators, and detailed error messages.`
+
+---
+
+**Prompt 48 · Design an API Gateway**
+
+`Design an API gateway for [system]. Include routing, authentication, rate limiting, request transformation, load balancing, and observability.`
+
+---
+
+**Prompt 49 · Write a Plugin System**
+
+`Design a plugin system for [application]. Include plugin discovery, lifecycle hooks, sandboxing, dependency management, and versioned APIs.`
+
+---
+
+**Prompt 50 · Build a Search Autocomplete**
+
+`Build a search autocomplete system for [application]. Include debouncing, trie/prefix indexing, ranked suggestions, keyboard navigation, and accessibility.`
+
+---
