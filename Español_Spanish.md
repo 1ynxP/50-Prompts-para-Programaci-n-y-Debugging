@@ -45,7 +45,6 @@ Reemplaza:
 
 por tu contenido real.
 
----
 
 ## 2️⃣ Combina prompts entre sí
 
@@ -59,7 +58,6 @@ Puedes combinar varios prompts en un mismo flujo de trabajo.
 
 ➡️ Todo dentro de una sola solicitud.
 
----
 
 ## 3️⃣ Guarda tus favoritos
 
@@ -72,7 +70,6 @@ Puedes almacenarlos en:
 
 con configuraciones reutilizables ya preparadas.
 
----
 
 ## 4️⃣ Agrega formato de salida
 
@@ -85,7 +82,6 @@ Puedes añadir instrucciones como:
 
 Esto normalmente genera respuestas más limpias y listas para producción.
 
----
 
 ## 5️⃣ Itera en lugar de reiniciar
 
