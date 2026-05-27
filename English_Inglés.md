@@ -1,6 +1,6 @@
 # 🚀 50 Prompts for Programming and Debugging
 
-##🧠 Introduction
+## 🧠 Introduction
 
 Modern software development is no longer just about writing code line by line. Today, AI is becoming a real tool to assist developers: helping with debugging, analyzing architectures, optimizing systems, and facilitating complete workflows.
 
@@ -43,7 +43,7 @@ Replace:
 
 with your actual content.
 
-###2️⃣ Combine prompts together
+### 2️⃣ Combine prompts together
 
 You can combine multiple prompts into a single workflow.
 
@@ -54,7 +54,7 @@ Example
 
 ➡️ All within a single request.
 
-###3️⃣ Save your favorites
+### 3️⃣ Save your favorites
 
 You can store them in:
 
@@ -65,7 +65,7 @@ Google Docs
 
 with reusable preconfigured templates.
 
-###4️⃣ Add output formatting
+### 4️⃣ Add output formatting
 
 You can append instructions such as:
 
